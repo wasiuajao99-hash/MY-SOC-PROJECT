@@ -62,5 +62,5 @@ The project focuses on building and testing a segmented cybersecurity network us
 
 ## Author
 
-* **Name:** [Author Name]
-* **Contact:** [Email Address]
+* **Name:*Wasiu Ajao
+* **Contact:** [wasiuajao99@gmail.com]
